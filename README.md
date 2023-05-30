@@ -50,6 +50,12 @@ In my Youtube channel, I publish content about a developer's life, not just code
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
+[![Practicamos la lógica de programación Ep2.-](https://ytcards.demolab.com/?id=VJS23ng26A8&title=Practicamos+la+l%C3%B3gica+de+programaci%C3%B3n+Ep2.-&lang=en&timestamp=1681560761&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Practicamos la lógica de programación Ep2.-")](https://www.youtube.com/watch?v=VJS23ng26A8)
+[![Practicamos la lógica de programación Ep1.-](https://ytcards.demolab.com/?id=vS9IxAuZxQU&title=Practicamos+la+l%C3%B3gica+de+programaci%C3%B3n+Ep1.-&lang=en&timestamp=1680874934&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Practicamos la lógica de programación Ep1.-")](https://www.youtube.com/watch?v=vS9IxAuZxQU)
+[![Git Tutorial   - Trabajo en equipo en Github](https://ytcards.demolab.com/?id=BXDu5zZ7Tbo&title=Git+Tutorial+++-+Trabajo+en+equipo+en+Github&lang=en&timestamp=1676145608&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Git Tutorial   - Trabajo en equipo en Github")](https://www.youtube.com/watch?v=BXDu5zZ7Tbo)
+[![JAVA ArrayList ejemplo integrador.](https://ytcards.demolab.com/?id=dpxuptCNE1U&title=JAVA+ArrayList+ejemplo+integrador.&lang=en&timestamp=1666389612&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "JAVA ArrayList ejemplo integrador.")](https://www.youtube.com/watch?v=dpxuptCNE1U)
+[![TUTORIAL de ArrayList en JAVA en ESPAÑOL](https://ytcards.demolab.com/?id=Vng2M4J--pc&title=TUTORIAL+de+ArrayList+en+JAVA+en+ESPA%C3%91OL&lang=en&timestamp=1666312060&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "TUTORIAL de ArrayList en JAVA en ESPAÑOL")](https://www.youtube.com/watch?v=Vng2M4J--pc)
+[![Tutorial Java Collections Framework en español](https://ytcards.demolab.com/?id=EVPpRhBROgU&title=Tutorial+Java+Collections+Framework+en+espa%C3%B1ol&lang=en&timestamp=1666312051&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250 "Tutorial Java Collections Framework en español")](https://www.youtube.com/watch?v=EVPpRhBROgU)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@TheLucast08?sub_confirmation=1)
