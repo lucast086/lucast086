@@ -50,7 +50,6 @@ In my Youtube channel, I publish content about a developer's life, not just code
 ### 📺 Latest YouTube Videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-[![The Making of GNU: The World's First Open-Source Software](https://ytcards.demolab.com/?id=sQDvkd2wtxU&title=The+Making+of+GNU%3A+The+World%27s+First+Open-Source+Software&lang=en&timestamp=1684076438&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&width=250&duration=484 "The Making of GNU: The World's First Open-Source Software")](https://www.youtube.com/watch?v=sQDvkd2wtxU)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@TheLucast08?sub_confirmation=1)
