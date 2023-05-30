@@ -7,6 +7,16 @@
 I'm a full-stack java developer and content creator. I constantly find myself learning new technologies, tools and soft skills. To carry out better projects.
 In my Youtube channel, I publish content about a developer's life, not just code, I'm trying to aport to the community pieces of advice for health, learning, jobs search, roadmaps, and more.
 
+<p align="left">
+      <a href="https://www.youtube.com/@TheLucast08?sub_confirmation=1">
+         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2-FOzcqTNHl91HdH-GHzgw?color=%23E05D44&label=SUBSCRIBE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="https://www.youtube.com/@TheLucast08">
+         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2-FOzcqTNHl91HdH-GHzgw?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+      <a href="https://github.com/ForrestKnight?tab=followers">
+         <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/ForrestKnight?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+      <a href="https://github.com/ForrestKnight?tab=repositories&sort=stargazers">
+         <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/ForrestKnight?color=55960c&style=for-the-badge&labelColor=488207&logo=star"/></a>
+   </p>
 
 
 #### - 🔭 I’m currently working on JayWays Tienda Digital **E-comerce**
@@ -15,10 +25,7 @@ In my Youtube channel, I publish content about a developer's life, not just code
 
 #### - 👨‍💻 All of my projects are available at <a href="www.turlettilucasdev.com.ar"> Portfolio</a>  .
 
-#### - Check my Youtube Channel
-- [![Mail Badge](https://img.shields.io/badge/-SasaPrograma-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC2-FOzcqTNHl91HdH-GHzgw) 
-  
-#### - 📫 Or reach me at
+#### - 📫 Reach me at
 
 - [![Linkedin Badge](https://img.shields.io/badge/-TurlettiLucas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turlettilucasdeveloper/) 
 [![Mail Badge](https://img.shields.io/badge/-TurlettiLucas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:turlettilucasdev@gmail.com)
