@@ -62,10 +62,6 @@ In my Youtube channel, I publish content about a developer's life, not just code
 <details>
   <summary><b>:gear: &nbsp;GitHub Stats</b></summary>
   <br/>
-  
-  
-  #
-
   <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucast086&show_icons=true&locale=en&layout=compact" alt="lucast086" /></p>
 
 </details>
