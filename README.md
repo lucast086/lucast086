@@ -40,6 +40,7 @@ In my Youtube channel, I publish content about a developer's life, not just code
 <details>
   <summary><b>:gear: &nbsp;My Journey</b></summary>
   <br/>
+      qdqdqwdqwd
 </details>
 
 #
