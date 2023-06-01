@@ -25,12 +25,17 @@ In my Youtube channel, I publish content about a developer's life, not just code
 
 #### - 🌱 I’m currently learning **BDD - TDD - CUCUMBER**
 
-#### - 👨‍💻 All of my projects are available at <a href="www.turlettilucasdev.com.ar"> Portfolio</a>  .
+#### - 👨‍💻 All of my projects are available at 
+- <a href="https://www.turlettilucasdev.com.ar/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Portfolio---%3E-green" alt="web"/>
+</a>
 
 #### - 📫 Reach me at
 
 - [![Linkedin Badge](https://img.shields.io/badge/-TurlettiLucas-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/turlettilucasdeveloper/) 
 [![Mail Badge](https://img.shields.io/badge/-TurlettiLucas-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:turlettilucasdev@gmail.com)
+
+
 
 ---
 ### 🧰 Languages and Tools
